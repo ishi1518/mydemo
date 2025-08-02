@@ -1,4 +1,3 @@
-import React from 'react';
 import { Banner1 } from '../components/Banner1';
 import { Banner2 } from '../components/Banner2';
 import { Product1 } from '../components/Product1';
